@@ -1,4 +1,4 @@
-## Disclaimer
+## Note
 
 This is a copy of the project **"Benchmarking Multi-Omic Models for Breast Cancer Subtypes Classification"**, done for the Machine Learning (CS-433) course at EPFL.
 
